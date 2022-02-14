@@ -4,7 +4,6 @@ The data is produced using Tensor Network Simulations of the Dynamics at Finite 
 
 ## Data structure
 
-
 ### Spin-Boson Model
 - **correlations.ipynb**: plots of the correlators, of the extended bath occupations, and of the chain occupations;
 - **pops_and_coherences.ipynb**: plots of the populations and coherences, computation of the coherence, relaxation and pure dephasing times;
@@ -13,3 +12,5 @@ The data is produced using Tensor Network Simulations of the Dynamics at Finite 
 
 ### Independent Boson Model
 - **indie_boson.ipynb**: the whole data analysis for the IBM, both for the simulated and the analytical results.
+
+The pdfs of the plots generated can be found in the directory `plots`.
