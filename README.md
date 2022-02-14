@@ -5,10 +5,10 @@ The data is produced using Tensor Network Simulations of the Dynamics at Finite 
 ## Data structure
 
 ### Spin-Boson Model
-- **correlations.ipynb**: plots of the correlators, of the extended bath occupations, and of the chain occupations;
-- **pops_and_coherences.ipynb**: plots of the populations and coherences, computation of the coherence, relaxation and pure dephasing times;
-- **simulation_specs.ipynb**: plots of the chain coefficients, of the bond dimension evolution, of the spectral density function
-- **spin_boson.ipynb**: the whole data analysis for the Spin-Boson case in one document (updated).
+- **spin_boson.ipynb**: the whole data analysis for the Spin-Boson case in one document (updated). The document is too heavy to be rendered on the web browser, the same results are therefore shown in the following notebooks:
+  - **correlations.ipynb**: plots of the correlators, of the extended bath occupations, and of the chain occupations;
+  - **pops_and_coherences.ipynb**: plots of the populations and coherences, computation of the coherence, relaxation and pure dephasing times;
+  - **simulation_specs.ipynb**: plots of the chain coefficients, of the bond dimension evolution, of the spectral density function
 
 ### Independent Boson Model
 - **indie_boson.ipynb**: the whole data analysis for the IBM, both for the simulated and the analytical results.
