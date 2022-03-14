@@ -19,8 +19,8 @@ The data is produced using Tensor Network Simulations of the Dynamics at Finite 
 The pdfs of the plots generated can be found in the directory `plots`.
 
 
-### References
 _____________
+### References
 
 [1] A. W. Chin,  ́A. Rivas, S. F. Huelga, and M. B. Plenio. Exact mapping between system-reservoir quantum models and semi-infinite discrete chains using orthogonal polynomials. Journal of Mathematical Physics, 51(9):092109, 2010. arXiv:[1006.4507](https://arxiv.org/abs/1006.4507).
 
