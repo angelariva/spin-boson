@@ -9,6 +9,7 @@ The data is produced using Tensor Network Simulations of the Dynamics at Finite 
   - **correlations.ipynb**: plots of the correlators, of the extended bath occupations, and of the chain occupations;
   - **pops_and_coherences.ipynb**: plots of the populations and coherences, computation of the coherence, relaxation and pure dephasing times;
   - **simulation_specs.ipynb**: plots of the chain coefficients, of the bond dimension evolution, of the spectral density function
+  - **back_to_phys.ipynb**: plots of the physical modes occupation, after having reversed the thermofield transformation.
 
 ### Independent Boson Model
 - **indie_boson.ipynb**: the whole data analysis for the IBM, both for the simulated and the analytical results.
